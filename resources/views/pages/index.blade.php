@@ -9,5 +9,5 @@
 @endsection
 
 @push('scripts')
-   <script src="/js/app.js"></script>
+   <script src="/js/index.js"></script>
 @endpush
